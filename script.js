@@ -11,7 +11,7 @@ const fruitsData = [
     { en: "Garlic", fr: "Ail", emoji: "🧄", level: 1 },
     { en: "Corn", fr: "Maïs", emoji: "🌽", level: 1 },
     { en: "Pea", fr: "Petit pois", emoji: "🫛", level: 1 },
-    { en: "Pumpkin", fr: "Citronnelle / Potiron", emoji: "🎃", level: 1 },
+    { en: "Pumpkin", fr: "Potiron", emoji: "🎃", level: 1 },
     { en: "Spinach", fr: "Épinard", emoji: "🍃", level: 1 },
     { en: "Mushroom", fr: "Champignon", emoji: "🍄", level: 1 },
     { en: "Pepper", fr: "Poivron", emoji: "🫑", level: 1 },
